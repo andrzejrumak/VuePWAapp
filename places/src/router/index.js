@@ -19,7 +19,7 @@ export default new Router({
       component: DetailPlaces
     },
     {
-      path: '/post/:id',
+      path: '/post',
       name: 'post',
       component: PostPlace
     }
